@@ -1,6 +1,6 @@
-# MTA-STS Policy for Ryan Jarvis Law®
+# MTA-STS Policy for Prison Law
 
-Welcome to the official repository for the MTA-STS (Mail Transfer Agent-Strict Transport Security) policy for Ryan Jarvis Law®. As a lawyer that prioritises the security and privacy of my communications, I've dedicated this space to host my MTA-STS policy file, an essential measure for enhancing email security through encryption in transit and guarding against common vulnerabilities.
+Welcome to the official repository for the MTA-STS (Mail Transfer Agent-Strict Transport Security) policy for Prison Law. As a lawyer that prioritises the security and privacy of my communications, I've dedicated this space to host my MTA-STS policy file, an essential measure for enhancing email security through encryption in transit and guarding against common vulnerabilities.
 
 ## 🛡️ About MTA-STS
 
@@ -10,7 +10,7 @@ For an in-depth understanding of MTA-STS and its importance, you can visit the [
 
 ## 📦 What’s Inside This Repository
 
-Here, you'll find the MTA-STS policy file for Ryan Jarvis Law®. This file outlines the MTA-STS policy that email servers must follow when sending emails to my domain, underscoring my commitment to securing email communication and safeguarding against email transmission threats.
+Here, you'll find the MTA-STS policy file for Prison Law. This file outlines the MTA-STS policy that email servers must follow when sending emails to my domain, underscoring my commitment to securing email communication and safeguarding against email transmission threats.
 
 ## 📝 License
 
@@ -22,10 +22,10 @@ Your insights and contributions are welcome! If you have any suggestions or enha
 
 ## 🌐 Get In Touch
 
-For any questions or if you need help with the MTA-STS policy implementation, feel free to visit [my website](https://www.ryanjarvis.law/). You can also reach out directly on GitHub at [@ryanjarvislaw](https://github.com/ryanjarvislaw/mta-sts).
+For any questions or if you need help with the MTA-STS policy implementation, feel free to visit [my website](https://www.prison.law/). You can also reach out directly on GitHub at [@ryanjarvislaw](https://github.com/ryanjarvislaw/prl-mta-sts).
 
 I value your feedback and support immensely as we work together to improve email security for my work and my clients.
 
 ---
 
-By engaging with and contributing to this MTA-STS policy repository, you play a significant role in enhancing the security of email communications for Ryan Jarvis Law®. I appreciate your support and dedication to the cause of email security.
+By engaging with and contributing to this MTA-STS policy repository, you play a significant role in enhancing the security of email communications for Prison Law. I appreciate your support and dedication to the cause of email security.
